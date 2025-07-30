@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-*   [TypeScript](#typescript)
 *   [Vue](#vue)
+*   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [C++](#c)
@@ -20,6 +20,46 @@
 *   [CSS](#css)
 *   [Java](#java)
 *   [Markdown](#markdown)
+
+## Vue
+
+*   [DavidHDev/vue-bits](https://github.com/DavidHDev/vue-bits) - An open source collection of animated, interactive & fully customizable Vue components for building stunning, memorable websites.
+
+*   [HugoRCD/nuxt-ui-chat](https://github.com/HugoRCD/nuxt-ui-chat) - Nuxt UI app using the aisdk v5: streaming AI chat, multi-model support, AI Gateway, and generative UI
+
+*   [Jannchie/chat-ui](https://github.com/Jannchie/chat-ui) - Jannchie‘s Chat UI, for LLM Services
+
+*   [xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner) - 🔔 An opinionated toast component for Vue & Nuxt.
+
+*   [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
+
+*   [nuxt-ui-pro/starter-vue](https://github.com/nuxt-ui-pro/starter-vue) - Nuxt UI Pro minimal starter for Vue.
+
+*   [taoofagi/easegen-front](https://github.com/taoofagi/easegen-front) - Easegen is an open-source digital human course creation platform offering comprehensive solutions from course production and video management to intelligent quiz generation.Easegen 是一个开源的数字人课程制作平台，提供从课程制作、视频管理到智能出题的全方位解决方案。
+
+*   [Idered/chalk.ist](https://github.com/Idered/chalk.ist) - 📷 Create beautiful images of your source code
+
+*   [Tresjs/tres](https://github.com/Tresjs/tres) - Declarative ThreeJS using Vue Components
+
+*   [fayazara/logspot](https://github.com/fayazara/logspot) - Logspot is a lightweight, free and open source template for your changelog made with Vue, Nuxt and Tailwindcss.
+
+*   [nuxt/ui](https://github.com/nuxt/ui) - The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.
+
+*   [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
+
+*   [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui
+
+*   [MopTym/vue-waterfall](https://github.com/MopTym/vue-waterfall) - A waterfall layout component for Vue.js
+
+*   [chenxuan0000/vue-seamless-scroll](https://github.com/chenxuan0000/vue-seamless-scroll) -  :beginner:A simple, seamless scrolling for Vue.js  vue无缝滚动component
+
+*   [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
+
+*   [hellodigua/vue-danmaku](https://github.com/hellodigua/vue-danmaku) - 基于 Vue 的弹幕交互组件  | A danmaku component for Vue
+
+*   [xyxiao001/vue-cropper](https://github.com/xyxiao001/vue-cropper) - A simple  picture clipping plugin for vue
+
+*   [yangzongzhuan/RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
 
 ## TypeScript
 
@@ -185,49 +225,11 @@
 
 *   [Auto-Plugin/autofit.js](https://github.com/Auto-Plugin/autofit.js) - autofit.js 迄今为止最易用的自适应工具
 
-*   [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive user's focus across the page
+*   [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 
 *   [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
 
 *   [sunniejs/vue-h5-template](https://github.com/sunniejs/vue-h5-template) - :tada:vue搭建移动端开发,基于vue-cli4.0+webpack 4+vant ui + sass+ rem适配方案+axios封装，构建手机端模板脚手架
-
-## Vue
-
-*   [HugoRCD/nuxt-ui-chat](https://github.com/HugoRCD/nuxt-ui-chat) - Nuxt UI app using the aisdk v5: streaming AI chat, multi-model support, AI Gateway, and generative UI
-
-*   [Jannchie/chat-ui](https://github.com/Jannchie/chat-ui) - Jannchie‘s Chat UI, for LLM Services
-
-*   [xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner) - 🔔 An opinionated toast component for Vue & Nuxt.
-
-*   [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
-
-*   [nuxt-ui-pro/starter-vue](https://github.com/nuxt-ui-pro/starter-vue) - Nuxt UI Pro minimal starter for Vue.
-
-*   [taoofagi/easegen-front](https://github.com/taoofagi/easegen-front) - Easegen is an open-source digital human course creation platform offering comprehensive solutions from course production and video management to intelligent quiz generation.Easegen 是一个开源的数字人课程制作平台，提供从课程制作、视频管理到智能出题的全方位解决方案。
-
-*   [Idered/chalk.ist](https://github.com/Idered/chalk.ist) - 📷 Create beautiful images of your source code
-
-*   [Tresjs/tres](https://github.com/Tresjs/tres) - Declarative ThreeJS using Vue Components
-
-*   [fayazara/logspot](https://github.com/fayazara/logspot) - Logspot is a lightweight, free and open source template for your changelog made with Vue, Nuxt and Tailwindcss.
-
-*   [nuxt/ui](https://github.com/nuxt/ui) - The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.
-
-*   [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
-
-*   [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui
-
-*   [MopTym/vue-waterfall](https://github.com/MopTym/vue-waterfall) - A waterfall layout component for Vue.js
-
-*   [chenxuan0000/vue-seamless-scroll](https://github.com/chenxuan0000/vue-seamless-scroll) -  :beginner:A simple, seamless scrolling for Vue.js  vue无缝滚动component
-
-*   [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
-
-*   [hellodigua/vue-danmaku](https://github.com/hellodigua/vue-danmaku) - 基于 Vue 的弹幕交互组件  | A danmaku component for Vue
-
-*   [xyxiao001/vue-cropper](https://github.com/xyxiao001/vue-cropper) - A simple  picture clipping plugin for vue
-
-*   [yangzongzhuan/RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
 
 ## miscellaneous
 
@@ -400,8 +402,6 @@
 *   [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 
 *   [answershuto/learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
-
-*   [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) - 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 
 ## Swift
 
