@@ -3,6 +3,7 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
+*   [Java](#java)
 *   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [miscellaneous](#miscellaneous)
@@ -18,10 +19,11 @@
 *   [PHP](#php)
 *   [Rust](#rust)
 *   [CSS](#css)
-*   [Java](#java)
 *   [Markdown](#markdown)
 
 ## TypeScript
+
+*   [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 
 *   [FormidableLabs/react-live](https://github.com/FormidableLabs/react-live) - A flexible playground for live editing React components
 
@@ -203,6 +205,12 @@
 
 *   [sunniejs/vue-h5-template](https://github.com/sunniejs/vue-h5-template) - :tada:vue搭建移动端开发,基于vue-cli4.0+webpack 4+vant ui + sass+ rem适配方案+axios封装，构建手机端模板脚手架
 
+## Java
+
+*   [jd-opensource/joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie) - 开源的端到端产品级通用智能体
+
+*   [yangzongzhuan/RuoYi-Vue](https://github.com/yangzongzhuan/RuoYi-Vue) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统，同时提供了 Vue3 的版本
+
 ## JavaScript
 
 *   [webdiscus/ansis](https://github.com/webdiscus/ansis) - CJS/ESM ANSI color library for terminals, CI and Chromium-based browser consoles. Compatible with Bun, Deno, Next.JS.
@@ -369,8 +377,6 @@
 
 *   [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
 
-*   [perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh) - 技术面试最后反问面试官的话
-
 ## Python
 
 *   [FQrabbit/SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule) - 支持更多游戏规则，让SSTap成为真正的“网游加速器”
@@ -421,8 +427,6 @@
 
 *   [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 
-*   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🌐 Front End interview preparation materials for busy engineers (updated for 2025)
-
 ## Shell
 
 *   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
@@ -448,10 +452,6 @@
 ## CSS
 
 *   [yanhaijing/zepto.fullpage](https://github.com/yanhaijing/zepto.fullpage) - Focusing on the fullPage.js for mobile terminals.
-
-## Java
-
-*   [yangzongzhuan/RuoYi-Vue](https://github.com/yangzongzhuan/RuoYi-Vue) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统，同时提供了 Vue3 的版本
 
 ## Markdown
 
