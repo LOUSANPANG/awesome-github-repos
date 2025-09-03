@@ -22,6 +22,8 @@
 
 ## TypeScript
 
+*   [bokub/gradient-string](https://github.com/bokub/gradient-string) - :rainbow:  Beautiful color gradients in terminal output
+
 *   [Azure/fetch-event-source](https://github.com/Azure/fetch-event-source) - A better API for making Event Source requests, with all the features of fetch()
 
 *   [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
@@ -322,7 +324,7 @@
 
 *   [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 
-*   [nuxt-ui-pro/starter-vue](https://github.com/nuxt-ui-pro/starter-vue) - Nuxt UI Pro minimal starter for Vue.
+*   [nuxt-ui-templates/starter-vue](https://github.com/nuxt-ui-templates/starter-vue) - Nuxt UI Pro minimal starter for Vue.
 
 *   [taoofagi/easegen-front](https://github.com/taoofagi/easegen-front) - Easegen is an open-source digital human course creation platform offering comprehensive solutions from course production and video management to intelligent quiz generation.Easegen 是一个开源的数字人课程制作平台，提供从课程制作、视频管理到智能出题的全方位解决方案。
 
@@ -375,8 +377,6 @@
 *   [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 
 *   [wxlvip/Interviewer](https://github.com/wxlvip/Interviewer) -
-
-*   [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
 
 ## Python
 
