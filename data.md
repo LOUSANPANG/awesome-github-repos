@@ -72,7 +72,7 @@
 
 *   [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
 
-*   [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform. Instantly turn any website into API or spreadsheet.
+*   [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform. Instantly turn any website into API or spreadsheet. ⚡
 
 *   [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 
