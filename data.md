@@ -54,6 +54,8 @@
 
 *   [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
 
+*   [Jannchie/chat-ui](https://github.com/Jannchie/chat-ui) - Jannchie‘s Chat UI, for LLM Services
+
 *   [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 
 *   [kozakdenys/qr-code-styling](https://github.com/kozakdenys/qr-code-styling) - Automaticly generate your styled QR code in your web app.
@@ -335,8 +337,6 @@
 *   [DavidHDev/vue-bits](https://github.com/DavidHDev/vue-bits) - An open source collection of animated, interactive & fully customizable Vue components for building stunning, memorable websites.
 
 *   [HugoRCD/nuxt-ui-chat](https://github.com/HugoRCD/nuxt-ui-chat) - Nuxt UI app using the aisdk v5: streaming AI chat, multi-model support, AI Gateway, and generative UI
-
-*   [Jannchie/chat-ui](https://github.com/Jannchie/chat-ui) - Jannchie‘s Chat UI, for LLM Services
 
 *   [xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner) - 🔔 An opinionated toast component for Vue & Nuxt.
 
