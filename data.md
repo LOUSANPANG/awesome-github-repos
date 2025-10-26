@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
@@ -9,7 +10,6 @@
 *   [HTML](#html)
 *   [Java](#java)
 *   [Python](#python)
-*   [C++](#c)
 *   [Swift](#swift)
 *   [Roff](#roff)
 *   [Svelte](#svelte)
@@ -19,6 +19,12 @@
 *   [PHP](#php)
 *   [Rust](#rust)
 *   [CSS](#css)
+
+## C++
+
+*   [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
+
+*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 ## TypeScript
 
@@ -374,8 +380,6 @@
 
 *   [hellodigua/vue-danmaku](https://github.com/hellodigua/vue-danmaku) - 基于 Vue 的弹幕交互组件  | A danmaku component for Vue
 
-*   [xyxiao001/vue-cropper](https://github.com/xyxiao001/vue-cropper) - A simple  picture clipping plugin for vue
-
 ## HTML
 
 *   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
@@ -407,10 +411,6 @@
 *   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 
 *   [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
-
-## C++
-
-*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 ## Swift
 
