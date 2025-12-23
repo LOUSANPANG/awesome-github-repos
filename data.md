@@ -376,8 +376,6 @@
 
 *   [FQrabbit/SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule) - 支持更多游戏规则，让SSTap成为真正的“网游加速器”
 
-*   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - \[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-
 *   [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 
 ## C\#
@@ -423,6 +421,8 @@
 *   [MjavadH/4X4-Collection](https://github.com/MjavadH/4X4-Collection) - Simple 404 collection for use in personal and commercial projects
 
 *   [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library
+
+*   [una/CSSgram](https://github.com/una/CSSgram) - CSS library for Instagram filters
 
 ## Swift
 
