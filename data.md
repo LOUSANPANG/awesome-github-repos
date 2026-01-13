@@ -23,6 +23,8 @@
 
 ## Python
 
+*   [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+
 *   [akfamily/akshare](https://github.com/akfamily/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
 
 *   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
@@ -34,6 +36,8 @@
 *   [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 
 ## TypeScript
+
+*   [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills
 
 *   [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
 
@@ -261,8 +265,6 @@
 
 *   [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples
 
-*   [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
-
 ## Shell
 
 *   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
@@ -418,8 +420,6 @@
 *   [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 
 *   [MetaCubeX/ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta) -
-
-*   [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
 
 ## HTML
 
