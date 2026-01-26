@@ -2,14 +2,14 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
+*   [Vue](#vue)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
-*   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Shell](#shell)
 *   [Go](#go)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [Vue](#vue)
 *   [Rust](#rust)
 *   [C#](#c)
 *   [C++](#c-1)
@@ -21,103 +21,9 @@
 *   [SCSS](#scss)
 *   [PHP](#php)
 
-## miscellaneous
-
-*   [CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills) -
-
-*   [geekjourneyx/awesome-developer-go-sail](https://github.com/geekjourneyx/awesome-developer-go-sail) - 一份专为中国开发者“扬帆出海”打造的精选指南，一站式解决全球收款、海外公司、银行开户等难题。
-
-*   [liaokongVFX/MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide) - Model Context Protocol(MCP) 编程极速入门
-
-*   [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu) - 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
-
-*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-
-*   [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
-
-*   [MetaCubeX/ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta) -
-
-## JavaScript
-
-*   [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) -
-
-*   [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
-
-*   [SmileZXLee/uni-z-paging](https://github.com/SmileZXLee/uni-z-paging) - 【uni-app下拉刷新、上拉加载】高性能，全平台兼容(ios、安卓、鸿蒙next、h5以及各家小程序)。支持vue、nvue、vue2、vue3，使用wxs+renderjs实现。支持虚拟列表，支持自定义下拉刷新、上拉加载更多，支持自动管理空数据图、点击返回顶部，支持聊天分页、本地分页，支持国际化等数百项配置，流畅渲染百万级列表数据。
-
-*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-
-*   [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
-
-*   [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
-
-*   [jwplayer/jwplayer](https://github.com/jwplayer/jwplayer) - No Longer Maintained
-
-*   [ant-design/ant-motion](https://github.com/ant-design/ant-motion) -   :bicyclist: Animate specification and components of Ant Design
-
-*   [umijs/dumi](https://github.com/umijs/dumi) - 📖 Static Site Generator for component library development
-
-*   [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
-
-*   [webdiscus/ansis](https://github.com/webdiscus/ansis) - CJS/ESM ANSI color library for terminals, CI and Chromium-based browser consoles. Compatible with Bun, Deno, Next.JS.
-
-*   [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
-
-*   [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
-
-*   [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
-
-*   [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co
-
-*   [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()
-
-*   [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
-
-*   [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
-
-*   [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
-
-*   [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
-
-*   [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
-
-*   [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
-
-*   [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
-
-*   [camwiegert/typical](https://github.com/camwiegert/typical) - Animated typing in ~400 bytes 🐡 of JavaScript
-
-*   [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
-
-*   [a597873885/webfunny\_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端性能监控和埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.
-
-*   [fengyuanchen/viewerjs](https://github.com/fengyuanchen/viewerjs) - JavaScript image viewer.
-
-*   [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
-
-*   [robinvdvleuten/vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate) - 💾 Persist and rehydrate your Vuex state between page reloads.
-
-*   [fengyuanchen/compressorjs](https://github.com/fengyuanchen/compressorjs) - JavaScript image compressor.
-
-*   [mattboldt/typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
-
-*   [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
-
-*   [vineethtrv/css-loader](https://github.com/vineethtrv/css-loader) - This is a library having a collection of different types of CSS loaders, spinners
-
-*   [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
-
-*   [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
-
-*   [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
-
-*   [kisslove/web-monitoring](https://github.com/kisslove/web-monitoring) - 前端监控，性能监控平台。前端监控平台专注于Web端体验数据监控。对网页健康状况的三个方面进行监测：页面打开速度（速度测量）、页面稳定性（JS错误）和外部服务调用成功率（API）
-
-*   [CcSimple/vue-plugin-hiprint](https://github.com/CcSimple/vue-plugin-hiprint) - hiprint for Vue2/Vue3 ⚡打印、打印设计、可视化设计器、报表设计、元素编辑、可视化打印编辑
-
-*   [toplenboren/simple-git-hooks](https://github.com/toplenboren/simple-git-hooks) - A simple git hooks manager for small projects
-
 ## TypeScript
+
+*   [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
 *   [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI
 
@@ -343,6 +249,130 @@
 
 *   [umijs/father](https://github.com/umijs/father) - NPM package development tool
 
+## Vue
+
+*   [vuepont/elevenlabs-ui-vue](https://github.com/vuepont/elevenlabs-ui-vue) - ElevenLabs UI Vue is a component library and custom registry built on top of shadcn-vue to help you build multimodal agents faster.
+
+*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
+
+*   [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) - A Vue 3 renderer specifically built for AI-powered streaming Markdown: Monaco incremental, Mermaid progressive, and KaTeX formula speed, with real-time updates and no jitter, ready to use out of the box.
+
+*   [anyup/uView-Pro-Starter](https://github.com/anyup/uView-Pro-Starter) - 基于uView Pro + Uni Helper + Vite + UnoCss 的 uni-app 快速启动模板
+
+*   [anyup/uView-Pro](https://github.com/anyup/uView-Pro) - uView Pro 是为 Vue 3 + TypeScript 的 uni-app 生态量身打造的跨平台 UI 框架。基于 uView 1.8.8 用 TypeScript 重构，提供 80+ 高质量组件、丰富主题与暗黑模式、实用开发工具与模板，极大提升多端（H5/APP/鸿蒙/小程序）开发效率。uView Pro 已在华为鸿蒙应用商店上架，欢迎体验！
+
+*   [DavidHDev/vue-bits](https://github.com/DavidHDev/vue-bits) - An open source collection of animated, interactive & fully customizable Vue components for building stunning, memorable websites.
+
+*   [xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner) - 🔔 An opinionated toast component for Vue & Nuxt.
+
+*   [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
+
+*   [nuxt-ui-templates/starter-vue](https://github.com/nuxt-ui-templates/starter-vue) - Vue Starter Template for Nuxt UI.
+
+*   [Idered/chalk.ist](https://github.com/Idered/chalk.ist) - 📷 Create beautiful images of your source code
+
+*   [Tresjs/tres](https://github.com/Tresjs/tres) - Declarative ThreeJS using Vue Components
+
+*   [fayazara/logspot](https://github.com/fayazara/logspot) - Logspot is a lightweight, free and open source template for your changelog made with Vue, Nuxt and Tailwindcss.
+
+*   [nuxt/ui](https://github.com/nuxt/ui) - The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.
+
+*   [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
+
+*   [MopTym/vue-waterfall](https://github.com/MopTym/vue-waterfall) - A waterfall layout component for Vue.js
+
+## miscellaneous
+
+*   [CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills) -
+
+*   [geekjourneyx/awesome-developer-go-sail](https://github.com/geekjourneyx/awesome-developer-go-sail) - 一份专为中国开发者“扬帆出海”打造的精选指南，一站式解决全球收款、海外公司、银行开户等难题。
+
+*   [liaokongVFX/MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide) - Model Context Protocol(MCP) 编程极速入门
+
+*   [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu) - 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
+
+*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+
+*   [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
+
+*   [MetaCubeX/ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta) -
+
+## JavaScript
+
+*   [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) -
+
+*   [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
+
+*   [SmileZXLee/uni-z-paging](https://github.com/SmileZXLee/uni-z-paging) - 【uni-app下拉刷新、上拉加载】高性能，全平台兼容(ios、安卓、鸿蒙next、h5以及各家小程序)。支持vue、nvue、vue2、vue3，使用wxs+renderjs实现。支持虚拟列表，支持自定义下拉刷新、上拉加载更多，支持自动管理空数据图、点击返回顶部，支持聊天分页、本地分页，支持国际化等数百项配置，流畅渲染百万级列表数据。
+
+*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+
+*   [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
+
+*   [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
+
+*   [jwplayer/jwplayer](https://github.com/jwplayer/jwplayer) - No Longer Maintained
+
+*   [ant-design/ant-motion](https://github.com/ant-design/ant-motion) -   :bicyclist: Animate specification and components of Ant Design
+
+*   [umijs/dumi](https://github.com/umijs/dumi) - 📖 Static Site Generator for component library development
+
+*   [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
+
+*   [webdiscus/ansis](https://github.com/webdiscus/ansis) - CJS/ESM ANSI color library for terminals, CI and Chromium-based browser consoles. Compatible with Bun, Deno, Next.JS.
+
+*   [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
+
+*   [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
+
+*   [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
+
+*   [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co
+
+*   [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()
+
+*   [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
+
+*   [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
+
+*   [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
+
+*   [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
+
+*   [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
+
+*   [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
+
+*   [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
+
+*   [camwiegert/typical](https://github.com/camwiegert/typical) - Animated typing in ~400 bytes 🐡 of JavaScript
+
+*   [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
+
+*   [a597873885/webfunny\_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端性能监控和埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.
+
+*   [fengyuanchen/viewerjs](https://github.com/fengyuanchen/viewerjs) - JavaScript image viewer.
+
+*   [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+
+*   [robinvdvleuten/vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate) - 💾 Persist and rehydrate your Vuex state between page reloads.
+
+*   [fengyuanchen/compressorjs](https://github.com/fengyuanchen/compressorjs) - JavaScript image compressor.
+
+*   [mattboldt/typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
+
+*   [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
+
+*   [vineethtrv/css-loader](https://github.com/vineethtrv/css-loader) - This is a library having a collection of different types of CSS loaders, spinners
+
+*   [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
+
+*   [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
+
+*   [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
+
+*   [kisslove/web-monitoring](https://github.com/kisslove/web-monitoring) - 前端监控，性能监控平台。前端监控平台专注于Web端体验数据监控。对网页健康状况的三个方面进行监测：页面打开速度（速度测量）、页面稳定性（JS错误）和外部服务调用成功率（API）
+
 ## Python
 
 *   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
@@ -372,36 +402,6 @@
 ## Jupyter Notebook
 
 *   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
-
-## Vue
-
-*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-
-*   [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) - A Vue 3 renderer specifically built for AI-powered streaming Markdown: Monaco incremental, Mermaid progressive, and KaTeX formula speed, with real-time updates and no jitter, ready to use out of the box.
-
-*   [anyup/uView-Pro-Starter](https://github.com/anyup/uView-Pro-Starter) - 基于uView Pro + Uni Helper + Vite + UnoCss 的 uni-app 快速启动模板
-
-*   [anyup/uView-Pro](https://github.com/anyup/uView-Pro) - uView Pro 是为 Vue 3 + TypeScript 的 uni-app 生态量身打造的跨平台 UI 框架。基于 uView 1.8.8 用 TypeScript 重构，提供 80+ 高质量组件、丰富主题与暗黑模式、实用开发工具与模板，极大提升多端（H5/APP/鸿蒙/小程序）开发效率。uView Pro 已在华为鸿蒙应用商店上架，欢迎体验！
-
-*   [DavidHDev/vue-bits](https://github.com/DavidHDev/vue-bits) - An open source collection of animated, interactive & fully customizable Vue components for building stunning, memorable websites.
-
-*   [xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner) - 🔔 An opinionated toast component for Vue & Nuxt.
-
-*   [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
-
-*   [nuxt-ui-templates/starter-vue](https://github.com/nuxt-ui-templates/starter-vue) - Vue Starter Template for Nuxt UI.
-
-*   [Idered/chalk.ist](https://github.com/Idered/chalk.ist) - 📷 Create beautiful images of your source code
-
-*   [Tresjs/tres](https://github.com/Tresjs/tres) - Declarative ThreeJS using Vue Components
-
-*   [fayazara/logspot](https://github.com/fayazara/logspot) - Logspot is a lightweight, free and open source template for your changelog made with Vue, Nuxt and Tailwindcss.
-
-*   [nuxt/ui](https://github.com/nuxt/ui) - The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.
-
-*   [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
-
-*   [MopTym/vue-waterfall](https://github.com/MopTym/vue-waterfall) - A waterfall layout component for Vue.js
 
 ## Rust
 
