@@ -257,7 +257,7 @@
 
 *   [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) - A Vue 3 renderer specifically built for AI-powered streaming Markdown: Monaco incremental, Mermaid progressive, and KaTeX formula speed, with real-time updates and no jitter, ready to use out of the box.
 
-*   [anyup/uView-Pro-Starter](https://github.com/anyup/uView-Pro-Starter) - 基于uView Pro + Uni Helper + Vite + UnoCss 的 uni-app 快速启动模板
+*   [anyup/uView-Pro-Starter](https://github.com/anyup/uView-Pro-Starter) - 基于uView Pro + Vite + UnoCss 的 uni-app 快速启动模板
 
 *   [anyup/uView-Pro](https://github.com/anyup/uView-Pro) - uView Pro 是为 Vue 3 + TypeScript 的 uni-app 生态量身打造的跨平台 UI 框架。基于 uView 1.8.8 用 TypeScript 重构，提供 80+ 高质量组件、丰富主题与暗黑模式、实用开发工具与模板，极大提升多端（H5/APP/鸿蒙/小程序）开发效率。uView Pro 已在华为鸿蒙应用商店上架，欢迎体验！
 
@@ -397,7 +397,7 @@
 
 ## Go
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## Jupyter Notebook
 
