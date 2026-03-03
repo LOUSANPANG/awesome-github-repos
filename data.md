@@ -75,7 +75,7 @@
 
 *   [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 
-*   [a597873885/webfunny\_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端性能监控和埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.
+*   [a597873885/webfunny\_monitor](https://github.com/a597873885/webfunny_monitor) - Webfunny是一款集全链路监控和埋点系统于一体的大数据分析系统，我们致力于解决线上的疑难杂症和精细化分析业务数据；监控系统面向技术、埋点系统面向业务，两者配合使用，相得益彰。
 
 *   [fengyuanchen/viewerjs](https://github.com/fengyuanchen/viewerjs) - JavaScript image viewer.
 
@@ -121,7 +121,7 @@
 
 *   [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
 
-*   [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications
+*   [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - The agent engineering platform
 
 *   [antvis/Infographic](https://github.com/antvis/Infographic) - 🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!
 
