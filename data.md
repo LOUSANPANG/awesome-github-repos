@@ -265,6 +265,8 @@
 
 *   [liaokongVFX/MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide) - Model Context Protocol(MCP) 编程极速入门
 
+*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+
 *   [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 
 *   [MetaCubeX/ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta) -
@@ -340,8 +342,6 @@
 *   [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 
 *   [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
-
-*   [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 
 ## Python
 
