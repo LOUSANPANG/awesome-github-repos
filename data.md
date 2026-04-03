@@ -8,8 +8,8 @@
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [Vue](#vue)
-*   [Shell](#shell)
 *   [Go](#go)
+*   [Shell](#shell)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [C#](#c)
 *   [C++](#c-1)
@@ -343,6 +343,8 @@
 
 *   [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
 
+*   [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
+
 ## Python
 
 *   [ZhuLinsen/daily\_stock\_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
@@ -391,17 +393,15 @@
 
 *   [yulimchen/vue3-h5-template](https://github.com/yulimchen/vue3-h5-template) - 🌱 A ready-to-use mobile project base template built with the Vue3, Vant, and Vite. | 基于 Vue3、Vite5、TypeScript/JavaScript、Tailwindcss、Vant4，开箱即用的移动端项目基础模板
 
-## Shell
+## Go
 
-*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+
+## Shell
 
 *   [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境
 
 *   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
-
-## Go
-
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## Jupyter Notebook
 
