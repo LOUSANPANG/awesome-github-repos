@@ -131,7 +131,7 @@
 
 *   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 
-*   [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
+*   [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 
 *   [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 
