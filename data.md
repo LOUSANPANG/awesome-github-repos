@@ -243,7 +243,7 @@
 
 *   [likaia/js-screen-shot](https://github.com/likaia/js-screen-shot) - web端自定义截图插件(原生JS版)
 
-*   [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
+*   [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A way to manage your versioning and changelogs with a focus on monorepos
 
 ## miscellaneous
 
