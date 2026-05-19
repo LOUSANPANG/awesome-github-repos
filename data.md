@@ -281,7 +281,7 @@
 
 *   [likaia/js-screen-shot](https://github.com/likaia/js-screen-shot) - web端自定义截图插件(原生JS版)
 
-*   [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A way to manage your versioning and changelogs with a focus on monorepos
+*   [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos
 
 *   [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 
