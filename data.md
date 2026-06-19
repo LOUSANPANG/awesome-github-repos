@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
-*   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [JavaScript](#javascript)
 *   [Go](#go)
@@ -21,45 +21,9 @@
 *   [SCSS](#scss)
 *   [PHP](#php)
 
-## miscellaneous
-
-*   [dongyubin/IPTV](https://github.com/dongyubin/IPTV) - 2026年6月更新直播源，体育直播源、F1直播源，IPTV电视直播源、APTV电视直播源、IPTV直播软件、中国IPTV直播源M3U、TV观看工具，iptv最新可用直播源iptv4/iptv6，TVBox接口，福利节目源，IPTV检查工具、电视家替代APP
-
-*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-
-*   [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
-
-*   [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
-
-*   [geekjourneyx/awesome-developer-go-sail](https://github.com/geekjourneyx/awesome-developer-go-sail) - 一份专为中国开发者“扬帆出海”打造的精选指南，一站式解决全球收款、海外公司、银行开户等难题。
-
-*   [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
-
-*   [MetaCubeX/ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta) -
-
-## Python
-
-*   [Thysrael/Horizon](https://github.com/Thysrael/Horizon) - 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
-
-*   [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
-
-*   [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
-
-*   [ZhuLinsen/daily\_stock\_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
-
-*   [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-
-*   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
-
-*   [akfamily/akshare](https://github.com/akfamily/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
-
-*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
-
-*   [caiyuanhao1998/Open-DiffusionGS](https://github.com/caiyuanhao1998/Open-DiffusionGS) - Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation and Reconstruction (ICCV 2025)
-
-*   [FQrabbit/SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule) - 支持更多游戏规则，让SSTap成为真正的“网游加速器”
-
 ## TypeScript
+
+*   [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
 
 *   [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.
 
@@ -279,9 +243,45 @@
 
 *   [likaia/js-screen-shot](https://github.com/likaia/js-screen-shot) - web端自定义截图插件(原生JS版)
 
-*   [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos
+## miscellaneous
 
-*   [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
+*   [kimcrowing/IPTV](https://github.com/kimcrowing/IPTV) - IPTV直播源
+
+*   [dongyubin/IPTV](https://github.com/dongyubin/IPTV) - 2026年6月更新直播源，体育直播源、F1直播源，IPTV电视直播源、APTV电视直播源、IPTV直播软件、中国IPTV直播源M3U、TV观看工具，iptv最新可用直播源iptv4/iptv6，TVBox接口，福利节目源，IPTV检查工具、电视家替代APP
+
+*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+
+*   [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
+
+*   [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
+
+*   [geekjourneyx/awesome-developer-go-sail](https://github.com/geekjourneyx/awesome-developer-go-sail) - 一份专为中国开发者“扬帆出海”打造的精选指南，一站式解决全球收款、海外公司、银行开户等难题。
+
+*   [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
+
+*   [MetaCubeX/ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta) -
+
+## Python
+
+*   [Thysrael/Horizon](https://github.com/Thysrael/Horizon) - 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
+
+*   [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
+
+*   [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
+
+*   [ZhuLinsen/daily\_stock\_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
+
+*   [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+
+*   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
+
+*   [akfamily/akshare](https://github.com/akfamily/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
+
+*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+
+*   [caiyuanhao1998/Open-DiffusionGS](https://github.com/caiyuanhao1998/Open-DiffusionGS) - Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation and Reconstruction (ICCV 2025)
+
+*   [FQrabbit/SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule) - 支持更多游戏规则，让SSTap成为真正的“网游加速器”
 
 ## Vue
 
